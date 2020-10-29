@@ -10,5 +10,5 @@ Usage:
 
 
 
-![Alt text](https://github.com/se7enack/NetworkAdminTooling/blob/master/ScreenShot.png?raw=true "NetworkAdminTooling")
+![Alt text](https://github.com/se7enack/NetworkAdminTooling/blob/main/ScreenShot.png?raw=true?raw=true "NetworkAdminTooling")
 
