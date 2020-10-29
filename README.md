@@ -8,9 +8,11 @@ git clone https://github.com/se7enack/NetworkAdminTooling.git; sudo cp NetworkAd
 
 
 
-Usage:
+USAGE:
 
 $ subnet
+
+
 
 
 
