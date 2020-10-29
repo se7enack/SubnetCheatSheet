@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Stephen Burke - 10/28/2020 - https://github.com/se7enack
+# Stephen Burke - 10/28/2020 - https://github.com/se7enack/NetworkAdminTooling
 clear
 x=1
 echo;echo "   CIDR                    SUBNET                 WILDCARD               BLOCK                 INCREMENT              CLASS";echo
