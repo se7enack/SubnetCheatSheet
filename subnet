@@ -8,13 +8,13 @@ for i in {32..08}
 do
   if [[ $i -ge 24 ]]; then
         class="C"
-        c=1
+        c=3
   elif [[ $i -ge 16 ]]; then
         class="B"
-        c=3
+        c=2
   else
         class="A"
-        c=2
+        c=1
   fi
   cidr=$(printf %02d $i)
   s=$(( 0xffffffff ^ ((1 << (32-$i)) -1) ))
@@ -28,3 +28,4 @@ do
   z=$(())
 done | sort
 echo
+
