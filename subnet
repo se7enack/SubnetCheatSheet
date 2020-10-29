@@ -27,6 +27,13 @@ do
   x=$((x*2))
   z=$(())
 done | sort
+tput setaf 4;printf '''
+   Class A: First Octet Value 0-126
+   Class B: First Octet Value 128-191
+   Class C: First Octet Value 192-233
+   Class D: First Octet Value 224-239
+   Class E: First Octet Value 240-255
+'''
 tput sgr0
 echo
 
