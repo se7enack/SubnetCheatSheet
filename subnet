@@ -27,5 +27,6 @@ do
   x=$((x*2))
   z=$(())
 done | sort
+tput sgr0
 echo
 
