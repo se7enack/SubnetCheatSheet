@@ -2,6 +2,16 @@
 
 # Stephen Burke - 10/28/2020 - https://github.com/se7enack/NetworkAdminTooling
 clear
+printf '''
+                            _____       _   _     ______       _   _       _____       _____       _____ 
+                           /  ___|     | | | |    | ___ \     | \ | |     |  ___|     |_   _|     /  ___|
+                           \ `--.      | | | |    | |_/ /     |  \| |     | |__         | |       \ `--. 
+                            `--. \     | | | |    | ___ \     | . ` |     |  __|        | |        `--. \
+                           /\__/ /     | |_| |    | |_/ /     | |\  |     | |___        | |       /\__/ /
+                           \____/       \___/     \____/      \_| \_/     \____/        \_/       \____/ 
+                                                                                                         
+                                                                                                       
+'''
 x=1
 echo;echo "   CIDR                    SUBNET                 WILDCARD               BLOCK                 INCREMENT              CLASS";echo
 for i in {32..08}
