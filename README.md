@@ -3,7 +3,7 @@
 
 **INSTALL:**
 
-*git clone https://github.com/se7enack/NetworkAdminTooling.git; sudo cp NetworkAdminTooling/subnet /usr/bin/.*
+*git clone https://github.com/se7enack/NetworkAdminTooling.git; sudo cp NetworkAdminTooling/subnet /usr/bin/local/.*
 
 
 
