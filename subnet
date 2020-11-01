@@ -14,7 +14,7 @@ printf '''
 '''
 x=1
 echo;echo "   CIDR                    SUBNET                 WILDCARD               BLOCK\
-INCREMENT              CLASS";echo
+                  INCREMENT              CLASS";echo
 for i in {32..08}
 do
   if [[ $i -ge 24 ]]; then
