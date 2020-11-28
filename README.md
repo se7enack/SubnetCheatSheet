@@ -1,11 +1,11 @@
-# NetworkAdminTooling (for MacOS)
+# SubnetCheatSheet (for MacOS)
 
 
 **INSTALL:**
 
-```git clone https://github.com/se7enack/NetworkAdminTooling.git```
+```git clone https://github.com/se7enack/SubnetCheatSheet.git```
 
-```sudo cp NetworkAdminTooling/subnet /usr/local/bin.```
+```sudo cp SubnetCheatSheet/subnet /usr/local/bin.```
 
 
 
@@ -20,5 +20,5 @@
 
 **OUTPUT:**
 
-![Alt text](https://github.com/se7enack/NetworkAdminTooling/blob/main/screenshot.png?raw=true?raw=true "NetworkAdminTooling")
+![Alt text](https://github.com/se7enack/SubnetCheatSheet/blob/main/screenshot.png?raw=true?raw=true "SubnetCheatSheet")
 
