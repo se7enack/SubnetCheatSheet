@@ -1,4 +1,4 @@
-# NetworkAdminTooling
+# NetworkAdminTooling (for MacOS)
 
 
 **INSTALL:**
