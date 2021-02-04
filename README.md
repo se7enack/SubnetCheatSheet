@@ -5,7 +5,7 @@
 
 ```git clone https://github.com/se7enack/SubnetCheatSheet.git```
 
-```sudo cp SubnetCheatSheet/subnet /usr/local/bin.```
+```sudo cp SubnetCheatSheet/subnet /usr/local/bin/.```
 
 
 
