@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Stephen Burke - 10/28/2020 - https://github.com/se7enack/NetworkAdminTooling
+# Stephen Burke - 10/28/2020 - https://github.com/se7enack/SubnetCheatSheet
 clear
 printf '''
                             _____       _   _     ______       _   _       _____       _____       _____ 
